@@ -255,6 +255,9 @@ details p{color:var(--muted);padding-bottom:6px}
   .brand img{height:52px}
 }
 @media (max-width:640px){
+  .hero{padding:0}
+  .hero .wrap{padding-top:22px;padding-bottom:48px;gap:40px}
+  .eyebrow{margin-bottom:10px;font-size:1rem}
   body{font-size:16px}
   .topbar .tag{display:none}
   .topbar .wrap{justify-content:center}
